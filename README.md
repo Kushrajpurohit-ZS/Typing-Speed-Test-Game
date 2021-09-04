@@ -1,1 +1,1 @@
-# Typing-Speed-Test-Game
+It’s a very useful game to track your typing speed and improve it with regular practice. Now, user will be able to build their own typing speed game in Python. For a graphical user interface, we are going to use the pygame library which is used for working with graphics.
